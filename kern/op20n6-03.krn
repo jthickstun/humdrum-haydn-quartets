@@ -15,9 +15,10 @@
 !!!YEM: Refer to licensing agreement for further details.
 !!!YEN: United States of America
 **kern	**kern	**kern	**kern
+*I:Violoncello	*I:Viola	*I:Violino II	*I:Violino I
 *k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]
 *A:	*A:	*A:	*A:
-*clefF4	*clefC3	*clefF	*clefF
+*clefF4	*clefC3	*clefG	*clefG
 *M3/4	*M3/4	*M3/4	*M3/4
 4A	4e	4c#	2.a
 4A	4e	4c#	.
